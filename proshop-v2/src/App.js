@@ -2,7 +2,7 @@
 
 function App() {
   return (
-    <p>Welcome to ProShop</p>
+    <h1>Welcome to ProShop</h1>
   );
 }
 
